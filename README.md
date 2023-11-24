@@ -11,7 +11,8 @@ Basic real time chat application with;
 Clone the project
 
 ```bash
-  git clone https://github.com/kerlos-alfy/TODO-API
+  git clone https://github.com/kerlos-alfy/TODO-API.git
+
 ```
 
 Go to the project directory
